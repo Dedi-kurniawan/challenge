@@ -9,10 +9,8 @@
 - jquery
 
 # Package
-
-- Intervation Image
 - http://docs.guzzlephp.org
-- laravelcollective.com
+- https://laravelcollective.com
 - http://image.intervention.io
 
 # Library Jquery
@@ -24,17 +22,16 @@
 https://rajaongkir.com/ (untuk menampilkan data kota)
 
 # Key Raja Ongkir
--App\Controllers\SupplierController.php
+App\Controllers\SupplierController.php
+- Masukan KEY Raja Ongkir Pada function KotaIndonesia()   
 
-public function KotaIndonesia(){
-     Masukan KEY Raja Ongkir Pada function KotaIndonesia()
-     
         $response = $client->request('GET', $url, [
             'headers' => [
             'key' => 'Api Key Raja Ongkir Disini',
         ]]);
         
- ===========================================================================================================================
+                                                        
+                                                
  
  
  <h2>TERIMAKSIH</h2>
