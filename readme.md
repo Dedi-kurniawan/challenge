@@ -1,28 +1,29 @@
-# challenge APLIKASI KATALOG ONLINE
+# CHALLENGE 
+
+# APLIKASI KATALOG ONLINE
 
 
 # Tools
-
-Laravel 5.7
-mysql
-jquery
+- Laravel 5.7
+- mysql
+- jquery
 
 # Package
 
-Intervation Image
-http://docs.guzzlephp.org
-laravelcollective.com
-http://image.intervention.io
+- Intervation Image
+- http://docs.guzzlephp.org
+- laravelcollective.com
+- http://image.intervention.io
 
 # Library Jquery
-https://select2.org/
-http://igorescobar.github.io/jQuery-Mask-Plugin/ 
-https://cdnjs.com/libraries/toastr.js 
+- https://select2.org/
+- http://igorescobar.github.io/jQuery-Mask-Plugin/ 
+- https://cdnjs.com/libraries/toastr.js 
 
 # Api
 https://rajaongkir.com/ (untuk menampilkan data kota)
 
-# Gunakan KEY RAJA ONGKIR
+# Key Raja Ongkir
 -App\Controllers\SupplierController.php
 
 public function KotaIndonesia(){
