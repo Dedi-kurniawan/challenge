@@ -22,7 +22,7 @@
 https://rajaongkir.com/ (untuk menampilkan data kota)
 
 # Key Raja Ongkir
-App\Controllers\SupplierController.php
+- app/Http/Controllers/SupplierController.php
 - Masukan KEY Raja Ongkir Pada function KotaIndonesia()   
 
         $response = $client->request('GET', $url, [
